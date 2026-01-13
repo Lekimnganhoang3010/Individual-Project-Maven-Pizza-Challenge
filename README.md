@@ -1,6 +1,8 @@
 # Plato's Pizza
 ## Maven Analytics Pizza Challenge
 
+![Dashboar Image](![Logo](Dashboard_Images/Dashboard_image)
+
 ## Business Task
 Using Power BI to build dashboard to help with decision-making process and overall operation performance improvement of the 
 
