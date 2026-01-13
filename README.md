@@ -23,4 +23,14 @@ A Business Intelligen hired by Plato's Pizza to help use data to help improve pe
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
-## Insight
+## Insight from Total Revenue
+* Total Revenue of Quarter 4 was significantly lower than the first 3 Quarters of the year
+* Pizza size XL and XXL earned low quanity of orders and revenue
+* 3 Most popular Pizza types: The Big Meat Pizza, The Thai Chicken Pizza, The Five Cheese Pizza
+* 3 Most popular Ingredients combo: BBQ Chicken, Pepperoni and Mozarella Cheese
+
+## Insights from Customer Behaviors
+* Plato's Pizzas sell the most pizzas on Fridays and Saturdays, with slightly fewer orders reported on Thursdays and Sundays
+* The last days of each month (days 25 to 31) observed low number of pizzas ordered
+* When ordering more than 1 pizza, customers tend to pick pizzas which lower price
+* The majority of orders were for 2 people with 1 pizza, with 15 tables, 60 chairs, the current configuration is more suitable for 4 people
